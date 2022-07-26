@@ -1,2 +1,1 @@
-first react-project
-To-Do-List
+First React Project ToDo-List
